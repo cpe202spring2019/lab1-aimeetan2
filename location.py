@@ -43,5 +43,5 @@ def main():
     print(loc3 in locations)
     print(loc4 in locations)
 
-if __name__ == "__main__":
+if __name__ == "__main__":    
     main()
